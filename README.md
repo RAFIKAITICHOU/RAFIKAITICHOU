@@ -85,5 +85,3 @@ Passionné par le **développement logiciel**, les **systèmes informatiques** e
 - 📧 Email : rafikaitichou@gmail.com
 
 ---
-
-⭐ *N’hésitez pas à explorer mes projets et à laisser une étoile si ça vous plaît !*
