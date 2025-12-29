@@ -1,7 +1,9 @@
 # 👋 Hi, I'm AIT ICHOU Rafik
 
 🎓 Étudiant en Ingénierie Informatique & Réseaux | 💻 Développement Digital & Systèmes d’Information
+
 🎓 Computer Engineering & Networks Student | 💻 Digital Development & Information Systems - Software engineering.
+
 📍 Morocco  
 
 ## 📫 Me contacter | Contact Me
